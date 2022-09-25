@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: rgb(188, 179, 179);
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h3 {
+    font-size: larger;
+    color: rgb(249, 60, 7);
+    margin: 30%;
+    text-align: center;
+    margin-top: 30ch;
+
+}
+p {
+    text-align: center;
+}
